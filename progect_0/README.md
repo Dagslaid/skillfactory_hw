@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
 [2. Какой кейс решаем?](#какой-кейс-решаем)  
-[3. Этапы работы над проектом](https://colab.research.google.com/drive/1lymUYk3t5Wwzb6BaE657Vhp-qs-tcSTX#scrollTo=Uk_KVUULqZMt)  
+[3. Этапы работы над проектом](https://colab.research.google.com/drive/1lymUYk3t5Wwzb6BaE657Vhp-qs-tcSTX?usp=sharing)  
 [4. Результат](#Результат)    
 [5. Выводы](#Выводы) 
 
@@ -27,8 +27,8 @@
 Учимся писать хороший код на python
 
 
-### Этапы работы над проектом  
-....
+### [Этапы работы над проектом](https://colab.research.google.com/drive/1lymUYk3t5Wwzb6BaE657Vhp-qs-tcSTX?usp=sharing)
+
 
 :arrow_up:[к оглавлению](#Оглавление)
 
