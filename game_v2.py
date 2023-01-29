@@ -16,14 +16,17 @@ def random_predict(number: int = 1) -> int:
     """
     count = 0
     num_1 , num_2 = 1, 100 #Интервал чисел
+    
     while True:
         count += 1
-        predict_number = np.random.randint(num_1 , num_2) # Генерация числа
+        predict_number = np.random.randint(num_1 , num_2) # Генерация числа 
         
         if number > predict_number:
-            num_1 = predict_number     
+            num_1 = predict_number
+                 
         elif number < predict_number:
-            num_2 = predict_number 
+            num_2 = predict_number
+             
         else: 
             number == predict_number
             break    
@@ -52,5 +55,5 @@ def score_game(random_predict) -> int:
 
 
 #if __name__ == "__main__":
-    # RUN
+     #RUN
 score_game(random_predict)
