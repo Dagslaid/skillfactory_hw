@@ -4,3 +4,4 @@ From the [SkillFactory Data Scince course](https://skillfactory.ru/data-scientis
 ## Проекты
 
 * [Проект 0. Игра : угадай число](https://github.com/Dagslaid/skillfactory_hw/tree/Main/progect_0)
+* [Проект 1. Анализ вакинсий на HH]()
